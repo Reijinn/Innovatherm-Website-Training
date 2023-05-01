@@ -1,0 +1,46 @@
+html {
+    background-image: url(../images/bg.png);
+    background-size: 120%;
+    background-repeat: no-repeat;
+}
+
+nav {
+    padding-right:200px;
+}
+nav a {
+    float : right;
+    padding : 25px;
+    padding-top : 15px;
+    font-family: Arial;
+    font-size: 21px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: rgb(0, 156, 178);
+}
+
+header img {
+    float:left;
+    padding-left:200px;
+    
+}
+
+h1 {
+    font-family: Arial;
+    padding-top: 15%;
+    padding-left:15%;
+    display: block;
+    font-size: 50px;
+    color:white;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    padding-left:22%;
+    font-size: 50px;
+    color: rgb(0, 156, 178);
+    line-height: 0px;
+}
